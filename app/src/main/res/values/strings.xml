@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hiking Heaven</string>
+    <string name="text_field_size_X">150dp</string>
+</resources>
